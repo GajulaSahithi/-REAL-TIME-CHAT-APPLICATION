@@ -78,6 +78,5 @@ Building a Real-Time Chat Application provides a strong foundation in full-stack
 
 OUTPUT:
 
-
-
+![Image](https://github.com/user-attachments/assets/18ebef2d-8a22-41f0-a3e4-a85c26ace19c)
 
