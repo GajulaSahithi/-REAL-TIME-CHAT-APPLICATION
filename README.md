@@ -76,3 +76,8 @@ Event Hosting and Webinars: Real-time chat allows participants to interact durin
 Conclusion
 Building a Real-Time Chat Application provides a strong foundation in full-stack web development. It covers frontend development with React, backend logic with Node.js and Express, and real-time communication using Socket.io. VS Code streamlined the development process with its powerful features and integrations. This project demonstrates practical knowledge of how modern communication systems are built and deployed, and is a valuable addition to any developer’s portfolio, especially for those interested in web or application development.
 
+OUTPUT:
+
+
+
+
